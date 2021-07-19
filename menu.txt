@@ -10,3 +10,8 @@ Lunch Menu   :
 xiyar turshusu cal 150cal 3.99
 Surhullu  1000 cal 20.99
 
+Burger 1000 cal 5.99
+Veggie soup 10 cal 5.99
+Burritos 500 cal 3.99
+Doner 400 cal 8.95
+Kebab 500 cal 9.99
