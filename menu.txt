@@ -15,3 +15,9 @@ Veggie soup 10 cal 5.99
 Burritos 500 cal 3.99
 Doner 400 cal 8.95
 Kebab 500 cal 9.99
+
+Steak 600 cal 12.99
+Sandwich 250cal 10.99
+Pizza 800 cal 17.99
+soup 25 cal 5.99
+dolma 650 cal 25.99
